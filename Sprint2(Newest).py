@@ -1,5 +1,5 @@
 
-# Sprint 1 basic computation
+# Sprint 2 basic computation
 # Ivan Villafuerte
 # Program will help people figure out what cpu goes with motherboard
 # Inetl, AMD
